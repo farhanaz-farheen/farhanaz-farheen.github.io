@@ -266,7 +266,7 @@ box-shadow: 0px 3px 4px 0px rgba(50, 50, 50, 0.38);
 	font-weight: 200;
 }
 .page-section h2 {
-	color: #FF7A00;
+	color: #000000;
 }
 .page-section p {
 	font-size: 1.1em;
@@ -524,7 +524,7 @@ min-height:200px;
 }
 .experience-details span {
 	font-size: 14px;
-	color: #000;
+	color: #000000;
 }
 .progress-bar {
 	background-color: #FF7A00;
